@@ -3,7 +3,7 @@ game.Players.LocalPlayer.Character["PogoStick"].Handle.Mesh:Destroy()  --PlaneMo
 game.Players.LocalPlayer.Character["PlaneModel"].Handle.Mesh:Destroy() --Wings
 game.Players.LocalPlayer.Character["Wings"].Handle.Mesh:Destroy() --ValentinesWings
 game.Players.LocalPlayer.Character["ValentinesWings"].Handle.Mesh:Destroy() --SxK_Hair_01
-game.Players.LocalPlayer.Character["SxK_Hair_01"].Handle.Mesh:Destroy() --Lipstick_Bag_3.0
+game.Players.LocalPlayer.Character["Nike Shoebox Costume"].Handle.Mesh:Destroy() --Lipstick_Bag_3.0
 game.Players.LocalPlayer.Character["Lipstick_Bag_3.0"].Handle.Mesh:Destroy()
 game.Players.LocalPlayer.Character["Lipstick_Bag_1.0"].Handle.Mesh:Destroy() --VANS_Umbrella
 game.Players.LocalPlayer.Character["VANS_Umbrella"].Handle.Mesh:Destroy()
